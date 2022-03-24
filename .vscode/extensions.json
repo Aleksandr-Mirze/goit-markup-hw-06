@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer",
+    "kamikillerto.vscode-colorize",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "ritwickdey.liveserver",
+    "zhuangtongfa.material-theme",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "mikeburgh.xml-format",
+    "oderwat.indent-rainbow",
+    "ecmel.vscode-html-css"
+  ]
+}
